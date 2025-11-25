@@ -1,7 +1,6 @@
-# metodologia
-Metodologia Científica
+# Metodologia Científica
 
-Os arquivos em PDF deste repositório reúnem os slides utilizados na disciplina de Metodologia Científica. Cada apresentação tem um foco específico dentro do processo de pesquisa e escrita acadêmica, permitindo que você consulte o conteúdo conforme a etapa do trabalho.
+Os arquivos em PDF deste repositório reúnem os slides utilizados na disciplina de Metodologia Científica. Cada apresentação tem um foco específico no processo de pesquisa e escrita acadêmica, permitindo que você consulte o conteúdo conforme a etapa do trabalho.
 
 ## Slides da disciplina
 
