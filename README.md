@@ -29,3 +29,7 @@ Este repositorio contem os slides em PDF da disciplina de Metodologia Cientifica
 - **23. Visualizacao de Dados: Uso Eficaz de Graficos, Tabelas e Figuras** [PDF](./23-Visualizacao-de-Dados-Uso-Eficaz-de-Graficos-Tabelas-e-Figuras.pdf)
 - **24. Apresentacao de Trabalhos Academicos: Escopo, Narrativa e Comunicacao Cientifica Eficaz** [PDF](./24-Apresentacao-de-Trabalhos-Academicos-Escopo-Narrativa-e-Comunicacao-Cientifica-Eficaz.pdf)
 - **25. Mestrado em Computacao e Ciencia de Dados: Formacao Estruturada, Aplicacoes e Mercado** [PDF](./25-Mestrado-em-Computacao-e-Ciencia-de-Dados-Formacao-Estruturada-Aplicacoes-e-Mercado.pdf)
+
+## Playlist
+
+https://www.youtube.com/playlist?list=PLTy3TWJeueGwFXOCfLpcMU-rdS_6tCN8L
