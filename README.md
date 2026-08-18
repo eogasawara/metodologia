@@ -45,7 +45,7 @@ O curso visa capacitar o aluno a planejar, analisar e comunicar trabalhos cienti
 
 [Metodologia Cientifica em Computacao](https://www.youtube.com/playlist?list=PLTy3TWJeueGwFXOCfLpcMU-rdS_6tCN8L)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTy3TWJeueGwFXOCfLpcMU-rdS_6tCN8L" title="Metodologia Cientifica em Computacao" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Assistir a playlist no YouTube](https://img.shields.io/badge/YouTube-Assistir%20playlist-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLTy3TWJeueGwFXOCfLpcMU-rdS_6tCN8L)
 
 ## Bibliografia
 
