@@ -14,6 +14,10 @@ Fundamentar os conhecimentos indispensáveis à compreensão e aplicação do m�
 
 O curso visa capacitar o aluno a planejar, analisar e comunicar trabalhos científicos com rigor metodológico, ética acadêmica e clareza formal, bem como a estruturar projetos de pesquisa e trabalhos de revisão científica de forma consistente, crítica e alinhada aos padrões da produção científica.
 
+## Template
+
+[Template para elaboração do trabalho da disciplina](https://www.overleaf.com/latex/templates/cefet-rj-metodologia-cientifica/wkjczdxtngrg)
+
 ## Slides
 
 - [MC - 1 - Introdução à Metodologia Científica](https://github.com/eogasawara/metodologia/blob/main/01-Introducao.pdf)
